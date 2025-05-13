@@ -2,7 +2,7 @@
 
 ## → Foreword  
 
-🔺Accent Sisters bookstore moved to Union Square in spring. They needed to overhaul their book inventory, which mostly included Chinese books and niche titles from independent or small presses. I had no prior experience with Shopify or inventory management. Shopify was their only inventory record, but it was incomplete and inaccurate. Initially, manual entry was proposed, but after some failed attempts, I decided to automate the process using ISBN scanning, web scraping, API requests, data cleaning in Python, and Zotero.
+🔺[Accent Sisters](https://accentaccent.com/) bookstore moved to Union Square in spring. They needed to overhaul their book inventory, which mostly included Chinese books and niche titles from independent or small presses. I had no prior experience with Shopify or inventory management. Shopify was their only inventory record, but it was incomplete and inaccurate. Initially, manual entry was proposed, but after some failed attempts, I decided to automate the process using ISBN scanning, web scraping, API requests, data cleaning in Python, and Zotero.
 
 🔺Written in a fun, storybook style and in two languages, this tutorial documents my journey in creating and troubleshooting this workflow. Included are Python tutorials for web scraping (with BeautifulSoup and Selenium), data cleaning strategies, and practical guidance for anyone looking to retrieve bulk information about Chinese-language books: which sources work, which ones don’t, and the data cleaning challenges that inevitably follow.
 
@@ -36,12 +36,3 @@
 ├── images/ # Images used in the story/tutorial
 │ └── image0001.jpg
 ```
----
-
-## → Notes  
-
-- The `Data/` folder contains all CSV files generated or used in the scraping and metadata merging steps.
-- The `Story/` folder documents the entire pipeline and its development as a bilingual narrative tutorial.
-- The `images/` folder contains all referenced screenshots, interface images, and annotated visuals.
-
-This README provides context for navigating and reproducing the pipeline described in the story chapters.
