@@ -16,8 +16,8 @@
 
 ---
 
-## → Project Structure  
-.
+## → File Structure  
+```text
 ├── Data/ # Sample datasets used in the tutorial
 │ ├── dangdangResults.csv
 │ ├── isbndbResults.csv
@@ -35,7 +35,7 @@
 │
 ├── images/ # Images used throughout the story/tutorial
 │ └── image0001.jpg
-.
+```
 ---
 
 ## → Notes  
