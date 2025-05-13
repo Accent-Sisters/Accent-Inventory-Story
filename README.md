@@ -24,7 +24,7 @@
 │ ├── scannedResults.csv
 │ └── zoteroExport.csv
 │
-├── Story/ # Tutorial chapters in .md or .ipynb format
+├── Story/ # Tutorial and story chapters with code examples
 │ ├── Chapter1.md
 │ ├── Chapter2.ipynb
 │ ├── Chapter3.ipynb
@@ -33,7 +33,7 @@
 │ ├── Chapter6.ipynb
 │ └── Forward.md
 │
-├── images/ # Images used throughout the story/tutorial
+├── images/ # Images used in the story/tutorial
 │ └── image0001.jpg
 ```
 ---
