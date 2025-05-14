@@ -22,6 +22,7 @@
 │ ├── dangdangResults.csv
 │ ├── isbndbResults.csv
 │ ├── scannedResults.csv
+│ ├── shopifyTemplate.csv
 │ └── zoteroExport.csv
 │
 ├── Story/ # Tutorial and story chapters with code examples
@@ -31,7 +32,7 @@
 │ ├── Chapter4.ipynb
 │ ├── Chapter5.ipynb
 │ ├── Chapter6.ipynb
-│ └── Forward.md
+│ └── Foreword.md
 │
 ├── images/ # Images used in the story/tutorial
 │ └── image0001.jpg
